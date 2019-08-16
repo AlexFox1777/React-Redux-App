@@ -1,0 +1,1 @@
+export {randomResultReducer} from "./randomAnimeReducer";
